@@ -12,8 +12,13 @@ Enter: price, items, express (true/false), type, zone.
 
 ## Tests
 <img width="587" height="163" alt="изображение" src="https://github.com/user-attachments/assets/e7caa783-ca8e-4f49-b040-51901c70a09c" />
+
 Here we can see that price not changed, because all our options are not adding or reducing price
+
 <img width="637" height="155" alt="изображение" src="https://github.com/user-attachments/assets/65cfc6a2-2116-47f9-8526-8f324ed9e69c" />
+
 here we can see that our price is as high as possible, because all our options increased price
+
 <img width="527" height="163" alt="изображение" src="https://github.com/user-attachments/assets/4dfb74c3-9051-4729-813c-c2f32211b944" />
+
 and here we see the error
